@@ -112,10 +112,6 @@
     padding: 0;
     box-sizing: border-box;
   }
-  body
-  {
-    pointer-events: none;
-  }
   
   li { list-style: none; }
   
